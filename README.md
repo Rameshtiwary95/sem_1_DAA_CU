@@ -1,39 +1,15 @@
-# DAA (Design & Analysis of Algorithms) – Semester 1
-cat > README.md << 'EOF'
-# 🌿 DAA (Design & Analysis of Algorithms) – Semester 1  
-This repository contains all my **Design & Analysis of Algorithms (DAA)** programs, notes, and practical files for Semester 1 at **CU (Chandigarh University)**.
+# DAA Practical Programs
 
-## 📂 Contents
+This repository contains all DAA (Design and Analysis of Algorithms) practical codes, case studies, notes, worksheets, and outputs.
 
-### 🔹 Python Programs
-- Quick Sort  
-- Merge Sort  
-- Bubble Sort  
-- BFS, DFS  
-- Dijkstra  
-- Warshall Algorithm  
-- Topological Sort  
-- Other DAA lab exercises  
+## Folder Structure
+- Python/ – Python programs
+- Java/ – Java programs
+- Case-Study/ – Case study PDFs and DOCX
+- Notes/ – Notes and worksheets
+- Output/ – Screenshots and generated outputs
 
-### 🔹 Java Programs
-- Quick Sort  
-- Merge Sort  
-- Strassen’s Algorithm  
-- Topological Sort  
-
-### 🔹 Case Studies & Notes
-- DAA case study PDFs  
-- Worksheets  
-- Syllabus  
-
-## 🧪 How to Run
-
-### ▶️ Python  
+## How to Run
+Use any standard Python/Java compiler or IDE to run the programs.
 
 
-## 🙌 Author  
-**Ramesh Tiwary**  
-MCA(AI & ML) Student  
-Chandigarh University  
-Nature Lover 🌿  
-EOF
